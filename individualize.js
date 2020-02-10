@@ -1,1 +1,1 @@
-console.log("We swim in the void as nothing... everything is out there.")
+console.log("Empty thingy done - not so empty ;-).")

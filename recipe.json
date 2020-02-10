@@ -1,3 +1,8 @@
 {
-    "*": true
+    "staticBase": [
+        ["merge"], 
+        {
+            "merge": ["https://gitlab.com/lenny09918050/lenny-unlicense"]
+        }
+    ]
 }
